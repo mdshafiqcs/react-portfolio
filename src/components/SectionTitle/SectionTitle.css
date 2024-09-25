@@ -1,0 +1,32 @@
+.section-title {
+  position: relative;
+}
+
+.section-title h1 {
+  padding: 0 30px;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.section-title img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  width: 180px;
+}
+
+@media(max-width: 768px) { 
+
+  .section-title h1 {
+    padding: 0;
+    font-size: 35px;
+    font-weight: 600;
+  }
+
+  .section-title img {
+    width: 110px;
+    right: -20px;
+  }
+
+}
