@@ -1,32 +1,32 @@
 const servicesData = [
   {
     s_no: "01",
-    s_name: "Web Design",
-    s_desc: "Web Design is the process of designing layout..."
+    s_name: "Ecommerce Store",
+    s_desc: "I provide solution for Ecommerce websites..."
   },
 
   {
     s_no: "02",
-    s_name: "Graphics design",
-    s_desc: "Graphics design is the process of designing layout..."
+    s_name: "Figma to React",
+    s_desc: "I can convert Figma to React design..."
   },
 
   {
     s_no: "03",
-    s_name: "Social media",
-    s_desc: "We can generate more sales using Social Media Marketing..."
+    s_name: "Authentication",
+    s_desc: "I can add authentication to your website..."
   },
 
   {
     s_no: "04",
-    s_name: "App design",
-    s_desc: "App design is the process of designing mobile layout..."
+    s_name: "Payment Gateway",
+    s_desc: "I can setup Stripe payment gateway..."
   },
 
   {
     s_no: "05",
-    s_name: "Digital marketing",
-    s_desc: "We can generate more sales using Digital Marketing..."
+    s_name: "Inventory Management",
+    s_desc: "I provide Inventory Management solution..."
   },
 
   {
