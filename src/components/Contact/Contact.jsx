@@ -57,7 +57,7 @@ function Contact() {
             </div>
             <div className="contact-detail">
               <img src={callIcon} alt="" />
-              <p>+880 1937-998676</p>
+              <p>+880 1937-998676, 01517204788</p>
             </div>
             <div className="contact-detail">
               <img src={locationIcon} alt="" />
