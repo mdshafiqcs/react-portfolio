@@ -80,7 +80,7 @@
 
 .contact-right input {
   border: none;
-  width: 400px;
+  width: 450px;
   height: 50px;
   padding-left: 20px;
   border-radius: 5px;
@@ -91,7 +91,7 @@
 }
 
 .contact-right textarea {
-  width: 350px;
+  width: 380px;
   border: none;
   padding: 20px;
   border-radius: 5px;
