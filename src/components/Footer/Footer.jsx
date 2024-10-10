@@ -12,7 +12,7 @@ function Footer() {
       <div className="footer-top">
         <div className="footer-top-left">
           <Logo /> 
-          <p>I am a Fullstack Developer with 5 years of experience specializing in the MERN stack and Laravel, and I focus on building dynamic, scalable web applications</p>
+          <p>I am a Fullstack Developer with 5 years of experience specializing in the MERN stack and Nextjs, and I focus on building dynamic, scalable web applications</p>
         </div>
 
         <div className="footer-top-right">
