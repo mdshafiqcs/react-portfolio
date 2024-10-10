@@ -22,8 +22,9 @@ function About() {
             <div className="about-skill"> <p>HTML & CSS</p> <hr style={{width: "50%"}}/> </div>
             <div className="about-skill"> <p>React Js</p> <hr style={{width: "70%"}}/> </div>
             <div className="about-skill"> <p>Javascript</p> <hr style={{width: "60%"}}/> </div>
+            <div className="about-skill"> <p>Node JS</p> <hr style={{width: "75%"}}/> </div>
             <div className="about-skill"> <p>Next Js</p> <hr style={{width: "50%"}}/> </div>
-            <div className="about-skill"> <p>Laravel</p> <hr style={{width: "60%"}}/> </div>
+            <div className="about-skill"> <p>Tailwind CSS</p> <hr style={{width: "60%"}}/> </div>
           </div>
         </div>
       </div>
