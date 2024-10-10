@@ -15,7 +15,7 @@ function About() {
         </div>
         <div className="about-right">
           <div className="about-para">
-            <p>Welcome to my portfolio! I’m a passionate Fullstack Developer with a deep focus on building modern web applications using the MERN stack (MongoDB, Express.js, React, Node.js) and Laravel. With experience across both front-end and back-end development, I specialize in creating seamless, dynamic user experiences and efficient server-side logic.</p>
+            <p>Welcome to my portfolio! I’m a passionate Fullstack Developer with a deep focus on building modern web applications using the MERN stack (MongoDB, Express.js, React, Node.js) and Nexjs. With experience across both front-end and back-end development, I specialize in creating seamless, dynamic user experiences and efficient server-side logic.</p>
             <p>From crafting intuitive user interfaces to developing robust APIs, my goal is to deliver scalable, high-performing solutions tailored to meet business needs. Explore my work below to see the projects I’ve been involved in, and feel free to reach out for collaborations or inquiries!</p>
           </div>
           <div className="about-skills">
@@ -31,17 +31,17 @@ function About() {
 
       <div className="about-achievements">
         <div className="about-achievement">
-          <h1>5+</h1>
+          <h1>2+</h1>
           <p>YEARS OF EXPERIENCE</p>
         </div>
         <hr />
         <div className="about-achievement">
-          <h1>40+</h1>
+          <h1>10+</h1>
           <p>PROJECTS COMPLETED</p>
         </div>
         <hr />
         <div className="about-achievement">
-          <h1>10+</h1>
+          <h1>5+</h1>
           <p>HAPPY CLIENTS</p>
         </div>
       </div>
